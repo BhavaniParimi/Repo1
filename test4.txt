@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3CBD-57C9
+
+ Directory of C:\Users\suchi\Desktop\GitProject
+
+11-04-2020  11:28    <DIR>          .
+11-04-2020  11:28    <DIR>          ..
+11-04-2020  10:13                22 index.html
+11-04-2020  10:56               532 index2.html
+11-04-2020  10:13               353 test1.txt
+11-04-2020  10:38               436 test2.txt
+11-04-2020  10:47               483 test3.txt
+11-04-2020  11:28                 0 test4.txt
+               6 File(s)          1,826 bytes
+               2 Dir(s)  393,190,207,488 bytes free
